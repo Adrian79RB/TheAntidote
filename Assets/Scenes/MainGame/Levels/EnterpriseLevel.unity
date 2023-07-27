@@ -31487,7 +31487,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!82 &527295431
 AudioSource:
   m_ObjectHideFlags: 0
@@ -31601,7 +31601,7 @@ MonoBehaviour:
   - {fileID: 112935184}
   - {fileID: 1966637871}
   - {fileID: 1169956257}
-  timesVisitedActivations: 010000000200000005000000
+  timesVisitedActivations: 030000000400000005000000
 --- !u!114 &527295433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71098,7 +71098,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1195832268
 Transform:
   m_ObjectHideFlags: 0
